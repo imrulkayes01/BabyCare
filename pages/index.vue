@@ -100,10 +100,9 @@
           <div
             class="relative z-10 bg-white p-4 rounded-[4rem] shadow-2xl rotate-2 transition-transform hover:rotate-0 duration-700"
           >
-            <div class="rounded-[3.2rem] overflow-hidden aspect-[4/5]">
+            <div class="rounded-[3.2rem] overflow-hidden aspect-video">
               <iframe
-                width="560"
-                height="315"
+                class="w-full h-full"
                 src="https://www.youtube.com/embed/kpy6QEAuLJw?si=teTFCr87LhA8OxQZ"
                 title="YouTube video player"
                 frameborder="0"

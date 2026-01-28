@@ -4,11 +4,13 @@
     <section class="bg-[#FFFDF8] py-12 md:py-20 relative overflow-hidden">
       <div class="max-w-[1280px] mx-auto px-4 text-center relative z-10">
         <h1
-          class="text-4xl md:text-7xl font-black text-gray-900 mb-6 tracking-tight"
+          class="text-4xl sm:text-5xl md:text-6xl font-black text-gray-900 mb-6 tracking-tight"
         >
           Get In <span class="text-yellow-500">Touch</span>
         </h1>
-        <div class="flex items-center justify-center gap-3 text-xl font-bold">
+        <div
+          class="flex items-center justify-center gap-3 text-lg sm:text-xl font-bold"
+        >
           <NuxtLink
             to="/"
             class="text-gray-400 hover:text-yellow-600 transition-colors"
@@ -61,7 +63,7 @@
                   Call Anytime
                 </div>
                 <div
-                  class="text-lg md:text-2xl font-black text-gray-900 tracking-tight"
+                  class="text-base md:text-2xl font-black text-gray-900 tracking-tight"
                 >
                   +880 1800 000 000
                 </div>
@@ -83,7 +85,7 @@
                   Email Us
                 </div>
                 <div
-                  class="text-base md:text-2xl font-black text-gray-900 uppercase tracking-tight break-words"
+                  class="text-base md:text-2xl font-black text-gray-900 tracking-tight"
                 >
                   support@babycare.com
                 </div>
@@ -105,7 +107,7 @@
                   Our Location
                 </div>
                 <div
-                  class="text-lg md:text-2xl font-black text-gray-900 tracking-tight"
+                  class="text-base md:text-2xl font-black text-gray-900 tracking-tight"
                 >
                   Sweet City, Kids State 456
                 </div>
@@ -177,7 +179,7 @@
               ></textarea>
             </div>
             <button
-              class="w-full py-4 md:py-6 bg-gray-900 text-white rounded-xl md:rounded-2xl font-black text-base md:text-xl hover:bg-black transition-all shadow-xl hover:-translate-y-1 active:scale-[0.98]"
+              class="w-full py-4 md:py-5 bg-gray-900 text-white rounded-xl md:rounded-2xl font-black text-base md:text-xl hover:bg-black transition-all shadow-xl hover:-translate-y-1 active:scale-[0.98]"
             >
               Send Message Now
             </button>

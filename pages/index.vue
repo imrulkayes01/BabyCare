@@ -31,7 +31,7 @@
           </div>
 
           <h1
-            class="text-5xl md:text-6xl xl:text-8xl font-black text-gray-900 leading-[1.1]"
+            class="text-4xl sm:text-5xl md:text-6xl xl:text-8xl font-black text-gray-900 leading-[1.1]"
           >
             Loving Care <br />
             <span
@@ -41,7 +41,7 @@
           </h1>
 
           <p
-            class="text-xl text-gray-600 max-w-xl mx-auto lg:mx-0 leading-relaxed"
+            class="text-lg md:text-xl text-gray-600 max-w-xl mx-auto lg:mx-0 leading-relaxed"
           >
             We provide a world-class environment where your child can explore,
             learn, and grow safely under professional supervision.
@@ -51,7 +51,7 @@
             class="flex flex-col sm:flex-row gap-5 justify-center lg:justify-start"
           >
             <button
-              class="group px-8 py-5 bg-pink-500 text-white rounded-2xl font-bold text-lg hover:bg-pink-600 transition-all shadow-xl shadow-pink-200 flex items-center justify-center gap-2"
+              class="group px-8 py-3.5 md:py-5 bg-pink-500 text-white rounded-2xl font-bold text-lg hover:bg-pink-600 transition-all shadow-xl shadow-pink-200 flex items-center justify-center gap-2"
             >
               Book a Tour
               <Icon
@@ -60,7 +60,7 @@
               />
             </button>
             <button
-              class="px-8 py-5 bg-white text-gray-700 rounded-2xl font-bold text-lg hover:bg-gray-50 transition-all border-2 border-gray-100 shadow-sm"
+              class="px-8 py-3.5 md:py-5 bg-white text-gray-700 rounded-2xl font-bold text-lg hover:bg-gray-50 transition-all border-2 border-gray-100 shadow-sm"
             >
               Our Programs
             </button>
@@ -346,7 +346,7 @@
           </ul>
 
           <button
-            class="px-10 py-5 bg-blue-500 text-white rounded-2xl font-bold text-lg hover:bg-blue-600 transition-all shadow-xl shadow-blue-200"
+            class="px-10 py-3.5 md:py-5 bg-blue-500 text-white rounded-2xl font-bold text-lg hover:bg-blue-600 transition-all shadow-xl shadow-blue-200"
           >
             More About Us
           </button>

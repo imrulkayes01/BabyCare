@@ -4,7 +4,7 @@
     <section class="bg-[#F6F8FF] py-20 relative overflow-hidden">
       <div class="max-w-[1280px] mx-auto px-4 text-center relative z-10">
         <h1
-          class="text-5xl md:text-7xl font-black text-gray-900 mb-6 tracking-tight"
+          class="text-4xl md:text-6xl font-black text-gray-900 mb-6 tracking-tight"
         >
           Our <span class="text-blue-500 italic">Community</span> Events
         </h1>
@@ -81,7 +81,7 @@
           </div>
           <div class="w-full lg:w-auto">
             <button
-              class="w-full lg:w-auto px-10 py-5 bg-blue-500 text-white rounded-2xl font-black text-lg hover:bg-blue-600 transition-all shadow-xl shadow-blue-200"
+              class="w-full lg:w-auto px-10 py-3.5 md:py-5 bg-blue-500 text-white rounded-2xl font-black text-lg hover:bg-blue-600 transition-all shadow-xl shadow-blue-200"
             >
               Register Now
             </button>
@@ -145,7 +145,7 @@
           </div>
           <div class="w-full lg:w-auto">
             <button
-              class="w-full lg:w-auto px-10 py-5 bg-pink-500 text-white rounded-2xl font-black text-lg hover:bg-pink-600 transition-all shadow-xl shadow-pink-200"
+              class="w-full lg:w-auto px-10 py-3.5 md:py-5 bg-pink-500 text-white rounded-2xl font-black text-lg hover:bg-pink-600 transition-all shadow-xl shadow-pink-200"
             >
               Save My Spot
             </button>
@@ -181,7 +181,7 @@
               class="flex-grow px-8 py-5 bg-white rounded-2xl outline-none border-2 border-transparent focus:border-blue-500 font-bold"
             />
             <button
-              class="px-8 py-5 bg-gray-900 text-white rounded-2xl font-black hover:bg-black transition-all"
+              class="px-8 py-3.5 md:py-5 bg-gray-900 text-white rounded-2xl font-black hover:bg-black transition-all"
             >
               Subscribe
             </button>

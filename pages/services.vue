@@ -1,17 +1,19 @@
 <template>
   <main class="pt-[80px]">
     <!-- Breadcrumb/Header -->
-    <section class="bg-[#F8F9FF] py-20 relative overflow-hidden">
+    <section class="bg-[#F8F9FF] py-12 md:py-20 relative overflow-hidden">
       <div
-        class="absolute top-0 right-0 w-64 h-64 bg-blue-100/50 rounded-full -translate-y-1/2 translate-x-1/2 blur-3xl"
+        class="absolute top-0 right-0 w-32 h-32 md:w-64 md:h-64 bg-blue-100/50 rounded-full -translate-y-1/2 translate-x-1/2 blur-3xl"
       ></div>
       <div class="max-w-[1280px] mx-auto px-4 text-center relative z-10">
         <h1
-          class="text-5xl md:text-7xl font-black text-gray-900 mb-6 tracking-tight"
+          class="text-4xl sm:text-5xl md:text-6xl font-black text-gray-900 mb-6 tracking-tight"
         >
           Our <span class="text-blue-500">Premium</span> Services
         </h1>
-        <div class="flex items-center justify-center gap-3 text-xl font-bold">
+        <div
+          class="flex items-center justify-center gap-3 text-lg sm:text-xl font-bold"
+        >
           <NuxtLink
             to="/"
             class="text-gray-400 hover:text-blue-500 transition-colors"
@@ -43,7 +45,7 @@
               </div>
             </div>
             <div
-              class="absolute -top-8 -left-8 w-24 h-24 bg-pink-500 rounded-3xl flex items-center justify-center text-white text-4xl font-black shadow-2xl rotate-12 group-hover:rotate-0 transition-transform"
+              class="absolute -top-6 -left-2 w-16 h-16 bg-pink-500 rounded-2xl flex items-center justify-center text-white text-2xl font-bold shadow-xl rotate-6 group-hover:rotate-0 transition-transform duration-300"
             >
               01
             </div>
@@ -167,7 +169,7 @@
               </div>
             </div>
             <div
-              class="absolute -top-8 -right-8 w-24 h-24 bg-blue-500 rounded-3xl flex items-center justify-center text-white text-4xl font-black shadow-2xl skew-x-6 group-hover:skew-x-0 transition-transform"
+              class="absolute -top-6 -right-2 w-16 h-16 bg-blue-500 rounded-2xl flex items-center justify-center text-white text-2xl font-bold shadow-xl skew-x-6 group-hover:skew-x-0 transition-transform duration-300"
             >
               02
             </div>

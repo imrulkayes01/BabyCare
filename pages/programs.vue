@@ -1,17 +1,19 @@
 <template>
   <main class="pt-[80px]">
     <!-- Breadcrumb/Header -->
-    <section class="bg-[#F2FAF4] py-20 relative overflow-hidden">
+    <section class="bg-[#F2FAF4] py-12 md:py-20 relative overflow-hidden">
       <div
-        class="absolute -bottom-10 -left-10 w-64 h-64 bg-green-200/40 rounded-full blur-3xl"
+        class="absolute -bottom-10 -left-10 w-32 h-32 md:w-64 md:h-64 bg-green-200/40 rounded-full blur-3xl"
       ></div>
       <div class="max-w-[1280px] mx-auto px-4 text-center relative z-10">
         <h1
-          class="text-5xl md:text-7xl font-black text-gray-900 mb-6 tracking-tight"
+          class="text-4xl sm:text-5xl md:text-6xl font-black text-gray-900 mb-6 tracking-tight"
         >
           Our <span class="text-green-600">Learning</span> Programs
         </h1>
-        <div class="flex items-center justify-center gap-3 text-xl font-bold">
+        <div
+          class="flex items-center justify-center gap-3 text-lg sm:text-xl font-bold"
+        >
           <NuxtLink
             to="/"
             class="text-gray-400 hover:text-green-600 transition-colors"

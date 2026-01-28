@@ -123,10 +123,10 @@
 
           <!-- Floating UI Elements -->
           <div
-            class="absolute -top-6 -right-6 bg-white p-6 rounded-3xl shadow-xl z-20 animate-bounce transition-all duration-[3000ms]"
+            class="absolute -top-6 -right-0 bg-white p-4 rounded-2xl shadow-xl z-20 animate-bounce transition-all duration-[3000ms]"
           >
             <div class="flex items-center gap-3 text-pink-500">
-              <Icon name="ph:heart-fill" class="w-10 h-10" />
+              <Icon name="ph:heart-fill" class="w-8 h-8" />
               <div class="font-bold text-gray-800">100% Safety</div>
             </div>
           </div>
@@ -298,16 +298,6 @@
               alt="About Us"
               class="w-full h-full object-cover"
             />
-          </div>
-          <div
-            class="absolute -bottom-6 -right-6 bg-blue-500 text-white p-8 rounded-[2rem] shadow-xl max-w-[200px]"
-          >
-            <div class="text-4xl font-black mb-1">12+</div>
-            <div
-              class="text-sm font-bold uppercase tracking-wider leading-tight"
-            >
-              Years Of Experience
-            </div>
           </div>
         </div>
 

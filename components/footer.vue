@@ -196,7 +196,7 @@
     <div
       class="max-w-[1280px] mx-auto px-4 mt-20 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4 text-gray-500"
     >
-      <p>&copy; 2024 BabyCare. All Rights Reserved. Designed with Love.</p>
+      <p>&copy; 2026 BabyCare. All Rights Reserved. Designed with Love.</p>
       <div class="flex gap-6">
         <a href="#" class="hover:text-white transition-colors"
           >Privacy Policy</a

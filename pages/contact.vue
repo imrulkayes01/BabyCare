@@ -4,7 +4,7 @@
     <section class="bg-[#FFFDF8] py-12 md:py-20 relative overflow-hidden">
       <div class="max-w-[1280px] mx-auto px-4 text-center relative z-10">
         <h1
-          class="text-4xl sm:text-5xl md:text-6xl font-black text-gray-900 mb-6 tracking-tight"
+          class="text-5xl sm:text-5xl md:text-6xl font-black text-gray-900 mb-6 tracking-tight"
         >
           Get In <span class="text-yellow-500">Touch</span>
         </h1>

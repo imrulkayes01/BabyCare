@@ -4,7 +4,7 @@
     <section class="bg-[#F6F8FF] py-20 relative overflow-hidden">
       <div class="max-w-[1280px] mx-auto px-4 text-center relative z-10">
         <h1
-          class="text-4xl md:text-6xl font-black text-gray-900 mb-6 tracking-tight"
+          class="text-5xl md:text-6xl font-black text-gray-900 mb-6 tracking-tight"
         >
           Our <span class="text-blue-500 italic">Community</span> Events
         </h1>

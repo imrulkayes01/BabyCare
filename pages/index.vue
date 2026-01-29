@@ -31,7 +31,7 @@
           </div>
 
           <h1
-            class="text-4xl sm:text-5xl md:text-6xl xl:text-8xl font-black text-gray-900 leading-[1.1]"
+            class="text-5xl sm:text-5xl md:text-6xl xl:text-8xl font-black text-gray-900 leading-[1.1]"
           >
             Loving Care <br />
             <span

@@ -27,7 +27,7 @@
     </section>
 
     <!-- Events List -->
-    <section class="py-24">
+    <section class="pb-20">
       <div class="max-w-[1280px] mx-auto px-4 space-y-12">
         <!-- Event 1 -->
         <div
@@ -154,48 +154,6 @@
               class="w-full lg:w-auto px-10 py-3.5 md:py-5 bg-pink-500 text-white rounded-2xl font-black text-lg hover:bg-pink-600 transition-all shadow-xl shadow-pink-200"
             >
               Save My Spot
-            </button>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Calendar CTA -->
-    <section class="py-24">
-      <div class="max-w-[1280px] mx-auto px-4">
-        <div
-          class="bg-gray-50 rounded-[4rem] p-12 md:p-20 text-center space-y-8"
-        >
-          <div
-            class="w-24 h-24 bg-white rounded-3xl flex items-center justify-center text-blue-500 mx-auto shadow-xl text-4xl mb-6"
-          >
-            <Icon name="ph:calendar-check-fill" />
-          </div>
-          <h2 class="text-4xl md:text-5xl font-black">
-            <span class="text-gray-900">Never </span>
-            <span
-              class="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-500"
-            >
-              Miss A
-            </span>
-            <span class="text-emerald-500"> Moment</span>
-          </h2>
-          <p class="text-xl text-gray-500 max-w-2xl mx-auto">
-            Get our monthly calendar of activities, events, and important dates
-            delivered straight to your inbox.
-          </p>
-          <div
-            class="flex flex-col sm:flex-row justify-center gap-4 max-w-md mx-auto"
-          >
-            <input
-              type="email"
-              placeholder="Enter your email"
-              class="flex-grow px-8 py-5 bg-white rounded-2xl outline-none border-2 border-transparent focus:border-blue-500 font-bold"
-            />
-            <button
-              class="px-8 py-3.5 md:py-5 bg-gray-900 text-white rounded-2xl font-black hover:bg-black transition-all"
-            >
-              Subscribe
             </button>
           </div>
         </div>

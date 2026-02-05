@@ -102,7 +102,7 @@
                 <div
                   class="w-10 h-10 rounded-xl bg-pink-50 text-pink-500 flex items-center justify-center flex-shrink-0"
                 >
-                  <Icon name="ph:users-two-fill" class="w-6 h-6" />
+                  <Icon name="ph:users-fill" class="w-6 h-6" />
                 </div>
                 Social Interaction
               </div>

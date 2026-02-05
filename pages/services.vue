@@ -44,7 +44,7 @@
                 class="rounded-[3.2rem] overflow-hidden aspect-[4/3] bg-white"
               >
                 <img
-                  src="/photo/Gmi_Image.png"
+                  src="/photo/AdobeStock.jpeg"
                   alt="Infant Care"
                   class="w-full h-full object-cover transition-transform group-hover:scale-110 duration-1000"
                 />

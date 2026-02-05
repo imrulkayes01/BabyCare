@@ -7,7 +7,7 @@
       ></div>
       <div class="max-w-[1280px] mx-auto px-4 text-center relative z-10">
         <h1
-          class="text-5xl sm:text-5xl md:text-6xl font-black mb-6 tracking-tight leading-snug md:leading-relaxed"
+          class="text-5xl sm:text-5xl md:text-6xl font-black mb-6 tracking-tight md:leading-relaxed"
         >
           <span class="text-gray-900">Our </span>
           <span
@@ -40,7 +40,7 @@
           >
             <div class="relative h-64 overflow-hidden">
               <img
-                src="/photo/Gmi_Image.png"
+                src="/photo/image.jpg"
                 alt="Infant"
                 class="w-full h-full object-cover group-hover:scale-110 duration-700"
               />

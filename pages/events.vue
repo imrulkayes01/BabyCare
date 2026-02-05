@@ -4,11 +4,11 @@
     <section class="bg-[#F6F8FF] py-20 relative overflow-hidden">
       <div class="max-w-[1280px] mx-auto px-4 text-center relative z-10">
         <h1
-          class="text-5xl md:text-6xl font-black mb-6 tracking-tight leading-snug md:leading-relaxed"
+          class="text-5xl md:text-6xl font-black mb-6 tracking-tight md:leading-relaxed"
         >
           <span class="text-gray-900">Our </span>
           <span
-            class="italic text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-500"
+            class="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-500"
           >
             Community
           </span>

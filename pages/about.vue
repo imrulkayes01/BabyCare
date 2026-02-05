@@ -186,39 +186,5 @@
         </div>
       </div>
     </section>
-
-    <!-- CTA Section -->
-    <!-- <section class="py-20">
-      <div class="max-w-[1280px] mx-auto px-4">
-        <div
-          class="bg-gradient-to-r from-pink-500 to-blue-600 rounded-[2rem] md:rounded-[3.5rem] p-8 md:p-20 text-center text-white relative overflow-hidden"
-        >
-          <div class="absolute top-0 right-0 p-10 opacity-10">
-            <Icon name="ph:sparkle-fill" class="w-64 h-64" />
-          </div>
-          <div class="relative z-10 max-w-3xl mx-auto space-y-8">
-            <h2 class="text-3xl md:text-6xl font-black leading-tight">
-              Ready To Give Your Child The Best Start?
-            </h2>
-            <p class="text-lg md:text-xl text-pink-100">
-              Contact us today to schedule a personalized tour of our center.
-            </p>
-            <div class="flex flex-wrap justify-center gap-4 md:gap-6">
-              <NuxtLink
-                to="/contact"
-                class="px-8 md:px-10 py-4 md:py-5 bg-white text-gray-900 rounded-2xl font-bold text-lg hover:bg-gray-100 transition-all shadow-xl"
-              >
-                Contact Us Now
-              </NuxtLink>
-              <button
-                class="px-8 md:px-10 py-4 md:py-5 bg-transparent border-2 border-white/30 text-white rounded-2xl font-bold text-lg hover:bg-white/10 transition-all"
-              >
-                View Programs
-              </button>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section> -->
   </main>
 </template>

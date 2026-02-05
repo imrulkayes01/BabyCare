@@ -167,10 +167,16 @@
           <span class="text-blue-500 font-bold uppercase tracking-[0.2em]"
             >Our Excellence</span
           >
-          <h2 class="text-4xl md:text-5xl font-black text-gray-900">
-            Quality Service For Kids
+          <h2
+            class="text-4xl md:text-5xl font-black text-gray-900 leading-[1.1]"
+          >
+            <span
+              class="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-500"
+            >
+              Quality Service <span class="block md:inline"></span> For Kids
+            </span>
           </h2>
-          <p class="text-gray-500 max-w-2xl mx-auto">
+          <p class="text-lg md:text-xl text-gray-500 max-w-4xl mx-auto">
             We provide specialized care tailored to each stage of your child's
             early development journey.
           </p>
@@ -308,10 +314,17 @@
           <h2
             class="text-4xl md:text-5xl font-black text-gray-900 leading-tight"
           >
-            We Provide The Best
-            <span class="text-blue-500">Early Education</span> For Your Kids
+            <span class="text-gray-900">We Provide </span>
+            <span class="text-pink-500">The Best </span>
+            <span
+              class="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-500"
+            >
+              Early Education
+            </span>
+            <span class="text-gray-900"> For Your </span>
+            <span class="text-green-500">Kids</span>
           </h2>
-          <p class="text-lg text-gray-600 leading-relaxed">
+          <p class="text-lg md:text-xl text-gray-600 leading-relaxed">
             Our mission is to provide a safe, nurturing and stimulating
             environment where your child can explore, learn and grow. We believe
             that every child is unique and deserves the best possible care and

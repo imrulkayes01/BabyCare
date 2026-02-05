@@ -9,7 +9,13 @@
         <h1
           class="text-5xl sm:text-5xl md:text-6xl font-black text-gray-900 mb-6 tracking-tight"
         >
-          Our <span class="text-blue-500">Premium</span> Services
+          Our
+          <span
+            class="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-500"
+          >
+            Premium
+          </span>
+          Services
         </h1>
         <div
           class="flex items-center justify-center gap-3 text-lg sm:text-xl font-bold"
@@ -56,10 +62,13 @@
             >
               Ages 0-2 Years
             </div>
-            <h2
-              class="text-4xl md:text-6xl font-black text-gray-900 leading-tight"
-            >
-              Infant & Toddler <span class="text-pink-500">Care</span>
+            <h2 class="text-4xl md:text-6xl font-black">
+              <span class="text-gray-900">Infant & </span>
+              <span
+                class="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-500"
+              >
+                Toddler Care
+              </span>
             </h2>
             <p class="text-xl text-gray-600 leading-relaxed">
               Our infant program is designed to provide a safe, warm, and
@@ -119,10 +128,14 @@
             >
               Ages 3-5 Years
             </div>
-            <h2
-              class="text-4xl md:text-6xl font-black text-gray-900 leading-tight"
-            >
-              Quality <span class="text-blue-500">Preschool</span> Education
+            <h2 class="text-4xl md:text-6xl font-black">
+              Quality
+              <span
+                class="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-500"
+              >
+                Preschool
+              </span>
+              <span class="text-emerald-500"> Education</span>
             </h2>
             <p class="text-xl text-gray-600 leading-relaxed">
               Our curriculum-based program prepares children for the transition
@@ -182,8 +195,14 @@
     <section class="py-24 bg-blue-50/50">
       <div class="max-w-[1280px] mx-auto px-4">
         <div class="text-center mb-20">
-          <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-4">
-            More Special Features
+          <h2 class="text-4xl md:text-5xl font-black mb-4">
+            <span class="text-gray-900">More </span>
+            <span
+              class="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-500"
+            >
+              Special
+            </span>
+            <span class="text-emerald-500"> Features</span>
           </h2>
           <p class="text-xl text-gray-500">
             Wait, there's even more for your little angels!

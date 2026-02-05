@@ -7,9 +7,15 @@
       ></div>
       <div class="max-w-[1280px] mx-auto px-4 text-center relative z-10">
         <h1
-          class="text-5xl sm:text-5xl md:text-6xl font-black text-gray-900 mb-6 tracking-tight"
+          class="text-5xl sm:text-5xl md:text-6xl font-black mb-6 tracking-tight leading-snug md:leading-relaxed"
         >
-          Our <span class="text-green-600">Learning</span> Programs
+          <span class="text-gray-900">Our </span>
+          <span
+            class="text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-teal-500"
+          >
+            Learning
+          </span>
+          <span class="text-blue-600"> Programs</span>
         </h1>
         <div
           class="flex items-center justify-center gap-3 text-lg sm:text-xl font-bold"

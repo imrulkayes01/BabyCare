@@ -4,9 +4,15 @@
     <section class="bg-[#F6F8FF] py-20 relative overflow-hidden">
       <div class="max-w-[1280px] mx-auto px-4 text-center relative z-10">
         <h1
-          class="text-5xl md:text-6xl font-black text-gray-900 mb-6 tracking-tight"
+          class="text-5xl md:text-6xl font-black mb-6 tracking-tight leading-snug md:leading-relaxed"
         >
-          Our <span class="text-blue-500 italic">Community</span> Events
+          <span class="text-gray-900">Our </span>
+          <span
+            class="italic text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-500"
+          >
+            Community
+          </span>
+          <span class="text-emerald-500"> Events</span>
         </h1>
         <div class="flex items-center justify-center gap-3 text-xl font-bold">
           <NuxtLink
@@ -165,8 +171,14 @@
           >
             <Icon name="ph:calendar-check-fill" />
           </div>
-          <h2 class="text-4xl md:text-5xl font-black text-gray-900">
-            Never Miss A Moment
+          <h2 class="text-4xl md:text-5xl font-black">
+            <span class="text-gray-900">Never </span>
+            <span
+              class="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-500"
+            >
+              Miss A
+            </span>
+            <span class="text-emerald-500"> Moment</span>
           </h2>
           <p class="text-xl text-gray-500 max-w-2xl mx-auto">
             Get our monthly calendar of activities, events, and important dates

@@ -6,7 +6,12 @@
         <h1
           class="text-5xl sm:text-5xl md:text-6xl font-black text-gray-900 mb-6 tracking-tight"
         >
-          Get In <span class="text-yellow-500">Touch</span>
+          Get In
+          <span
+            class="text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-orange-500"
+          >
+            Touch
+          </span>
         </h1>
         <div
           class="flex items-center justify-center gap-3 text-lg sm:text-xl font-bold"
@@ -29,14 +34,15 @@
         <!-- Contact Info (First on mobile) -->
         <div class="space-y-10 order-1 lg:order-2">
           <div class="space-y-4 md:space-y-8">
-            <h2
-              class="text-3xl md:text-6xl font-black text-gray-900 leading-tight"
-            >
-              We're Always Here <br class="hidden md:block" />To
+            <h2 class="text-4xl md:text-5xl font-black">
+              <span class="text-gray-900">
+                We're Always Here <br class="hidden md:block" />To
+              </span>
               <span
-                class="text-pink-500 italic underline decoration-blue-500 underline-offset-8"
-                >Help You</span
+                class="text-transparent underline decoration-blue-500 underline-offset-8 bg-clip-text bg-gradient-to-r from-pink-500 to-purple-500"
               >
+                Help You
+              </span>
             </h2>
             <p
               class="text-base md:text-xl text-gray-500 leading-relaxed max-w-2xl"
@@ -130,10 +136,13 @@
             />
           </div>
 
-          <h2
-            class="text-2xl md:text-4xl font-black text-gray-900 mb-6 md:mb-8"
-          >
-            Send Us A Message
+          <h2 class="text-4xl md:text-5xl font-black mb-6 md:mb-8">
+            <span class="text-gray-900">Send Us </span>
+            <span
+              class="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-500"
+            >
+              A Message
+            </span>
           </h2>
           <form @submit.prevent class="space-y-4 md:space-y-6">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">

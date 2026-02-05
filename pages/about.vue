@@ -18,7 +18,12 @@
         <h1
           class="text-5xl sm:text-5xl md:text-6xl font-black text-gray-900 mb-6 tracking-tight"
         >
-          About Our <span class="text-pink-500">Family</span>
+          About Our
+          <span
+            class="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-500"
+          >
+            Family
+          </span>
         </h1>
         <div
           class="flex items-center justify-center gap-3 text-lg sm:text-xl font-bold"
@@ -45,15 +50,16 @@
           >
             Since 2012
           </div>
-          <h2
-            class="text-3xl md:text-6xl font-black text-gray-900 leading-tight"
-          >
-            Nurturing The Future <br />
-            With
+          <h2 class="text-4xl md:text-5xl font-black">
+            <span class="text-purple-600">Nurturing </span>
+            <span class="text-emerald-500">The Future</span>
+            <br />
+            <span class="text-gray-700">With </span>
             <span
               class="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-500"
-              >Love & Care</span
             >
+              Love & Care
+            </span>
           </h2>
           <p class="text-lg md:text-xl text-gray-600 leading-relaxed">
             BabyCare was founded with a simple yet powerful vision: to create a
@@ -125,8 +131,16 @@
           <span class="text-pink-500 font-bold uppercase tracking-[0.2em]"
             >Our Values</span
           >
-          <h2 class="text-3xl md:text-5xl font-black text-gray-900">
-            Why Families Trust Us
+          <h2 class="text-4xl md:text-5xl font-black">
+            <span class="text-gray-900">
+              Why Families
+              <span class="block md:inline"> </span>
+            </span>
+            <span
+              class="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-500 block md:inline"
+            >
+              Trust Us
+            </span>
           </h2>
         </div>
 
